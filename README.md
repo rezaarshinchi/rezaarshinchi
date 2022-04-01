@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezaarshinchi
-- 👀 I’m interested in Coding nd Bioinformatics
+- 👀 I’m interested in Coding and Bioinformatics
 - 🌱 I’m currently learning CNN/RNN
 - 📫 How to reach me: rezaarshinchi1994@gmail.com
 
