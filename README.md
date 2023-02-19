@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezaarshinchi
 - 👀 I’m interested in Coding and Bioinformatics
-- 🌱 I’m currently learning CNN/RNN
+- 🌱 I’m interested in machine learning applications on health diseases
 - 📫 How to reach me: rezaarshinchi1994@gmail.com
 
 
